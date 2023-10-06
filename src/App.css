@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+span {
+  cursor: pointer;
+}
+
+button {
+  background: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #d32f2f;
+}
+
+input {
+  padding: 5px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+/* .updateButton{
+  display: inline-block;
+    position: absolute;
+    margin-left: 1304px;
+} */
+
+.button11{
+ display: inline-block;
+ margin-right: 14px;
+}
+.button22{
+  display: inline-block;
+}
+.addbutton{
+  /* background-color: #4CAF50; */
+  border: none;
+  color: white;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 5px 2px;
+  /* cursor: pointer; */
+}
